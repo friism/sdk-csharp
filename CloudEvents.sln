@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudNative.CloudEvents.Mqt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CloudNative.CloudEvents.Amqp", "src\CloudNative.CloudEvents.Amqp\CloudNative.CloudEvents.Amqp.csproj", "{39EF4DB0-9890-4CAD-A36E-F7E25D2E72EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudNative.CloudEvents.AspNetCore", "src\CloudNative.CloudEvents.AspNetCore\CloudNative.CloudEvents.AspNetCore.csproj", "{C726DD78-2D56-48D3-928A-D10226E3750B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -91,6 +93,18 @@ Global
 		{39EF4DB0-9890-4CAD-A36E-F7E25D2E72EF}.Release|x64.Build.0 = Release|Any CPU
 		{39EF4DB0-9890-4CAD-A36E-F7E25D2E72EF}.Release|x86.ActiveCfg = Release|Any CPU
 		{39EF4DB0-9890-4CAD-A36E-F7E25D2E72EF}.Release|x86.Build.0 = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|x64.Build.0 = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Debug|x86.Build.0 = Debug|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|x64.ActiveCfg = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|x64.Build.0 = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|x86.ActiveCfg = Release|Any CPU
+		{C726DD78-2D56-48D3-928A-D10226E3750B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
